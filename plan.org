@@ -1,0 +1,41 @@
+
+* Chapter 1: Mind The Gap  
+Misconception: The world is divided in two between the haves and have nots
+Truth: Most people live in the middle 
+Graph: incomes distribution by country, like the classic gapminder dist plot 
+
+* Chapter 2: The negativity instinct  
+Misconception: the world is getting worse 
+Graph: 16 bad things that are decreasing
+or people's perception of crime and actual crime rates
+
+chapter 3: straight line instinct 
+Misconception: trends remain constant
+graphs:
+ normal dist: cavities by income 
+ logistic: vaccinations and income
+ linear: schooling and income
+ negative logistic: birth rate 
+ exponential: spending and income 
+
+chapter 4: fear instinct 
+Misconception: scary things happen often 
+graph: 
+  battle deaths over time 
+  traffic deaths 
+
+Risk = danger x exposure 
+
+Chapter 5: the size instinct 
+graph infant deaths per year vs. infant mortality rate 
+Always look at things in proportion 
+
+Chapter 6: the generalization instinct 
+Africa is not all poor or the same 
+graph show educational attainment differences in south america
+take away: categories can be misleading
+
+Chapter 7: the destiny instinct 
+Things do change
+graph birth rates in historically religious regions
+
